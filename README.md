@@ -11,7 +11,7 @@ A comprehensive full-stack mobile application designed to streamline Human Resou
 
 | Dashboard | Employee List | Form Input |
 |:---:|:---:|:---:|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![List](docs/screenshots/data_karyawan.png) | ![Form](docs/screenshots/tambah_karyawan.png) |
+| ![Dashboard](docs/screenshots/Dashboard.png) | ![List](docs/screenshots/data_karyawan.png) | ![Form](docs/screenshots/tambah_karyawan.png) |
 
 *(Note: Screenshots are located in the `docs/screenshots` folder)*
 
@@ -38,8 +38,8 @@ A comprehensive full-stack mobile application designed to streamline Human Resou
 
 ---
 
-## ⚙️ Installation & Setup Guide
-
-**Download Full Guide:**
-👉 **[Installation & Setup Guide (PDF)](./docs/INSTALLATION & SETUP GUIDE.pdf)**
+## 📄 Documentation
+Please refer to the following documents:
+- 📘 **[User Manual & System Analysis](./docs/User_Manual.pdf)**
+- ⚙️ **[Installation & Setup Guide](./docs/instalation_setup.pdf)**
 
